@@ -42,7 +42,7 @@ int getNumberint(char *ch){
 	{
 		for(i-=1;i>0;i--)
 		{
-			if(charToint(ch[i])==-1 || charToint(ch[i])==10){printf("E R R O R !\n");chToint=0;break;}
+			if(charToint(ch[i])==-1 || charToint(ch[i])==10){printf("its not digit what you have just entered!\n");chToint=0;break;}
 			chToint += charToint(ch[i])*digit10;
 			digit10*=10;
 		}
@@ -53,7 +53,7 @@ int getNumberint(char *ch){
 	{
 		for(i-=1;i>=0;i--)
 		{
-			if(charToint(ch[i])==-1 || charToint(ch[i])==10){printf("E R R O R !\n");chToint=0;break;}
+			if(charToint(ch[i])==-1 || charToint(ch[i])==10){printf("its not digit what you have just entered!\n");chToint=0;break;}
 			chToint += charToint(ch[i])*digit10;
 			digit10*=10;
 		}
