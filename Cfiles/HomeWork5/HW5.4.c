@@ -27,7 +27,7 @@ Sstudent students[10],*PTR;
 int i ;
 for(i=0;i<10;i++)
 {
-printf("**************************student %d*************************\n",i+1);
+printf("**************************student %d*************************\n");
 printf("Enter Name : ");FLUSH;scanf("%s",students[i].name);
 printf("Enter roll_Number : ");FLUSH;scanf("%d",&students[i].roll_number);
 printf("Enter marks : ");FLUSH;scanf("%f",&students[i].marks);
