@@ -1,0 +1,4 @@
+main.c:14:6:delay_ms	0	static
+main.c:22:6:clock_init	0	static
+main.c:27:6:port_init	8	static
+main.c:46:5:main	16	static

@@ -1,0 +1,13 @@
+I2CSTM32.c:16:13:I2C_GPIO_Init	16	static
+I2CSTM32.c:33:6:I2C_init	32	static
+I2CSTM32.c:162:6:I2C_Dinit	16	static
+I2CSTM32.c:179:13:I2C_Get_Flag_Status	24	static
+I2CSTM32.c:253:6:I2C_Generate_Start	16	static
+I2CSTM32.c:292:6:I2C_Generate_Stop	16	static
+I2CSTM32.c:305:6:I2C_Generate_ACK	16	static
+I2CSTM32.c:316:6:I2C_Send_Address	24	static
+I2CSTM32.c:359:6:I2C_delay_ms	24	static
+I2CSTM32.c:367:6:I2C_Master_Tx	32	static
+I2CSTM32.c:451:6:I2C_Master_Rx	32	static
+I2CSTM32.c:536:6:I2C1_EV_IRQHandler	4	static
+I2CSTM32.c:541:6:I2C2_EV_IRQHandler	4	static

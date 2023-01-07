@@ -1,0 +1,8 @@
+SPISTM32.c:12:6:SPIx_init	24	static
+SPISTM32.c:92:6:SPIx_Set_Pins	16	static
+SPISTM32.c:129:6:SPIx_Dinit	16	static
+SPISTM32.c:143:6:SPIx_SendData	16	static
+SPISTM32.c:150:10:SPIx_RecData	16	static
+SPISTM32.c:158:10:SPIx_TxRx	16	static
+SPISTM32.c:169:6:SPIx_Start_Transmission	16	static
+SPISTM32.c:175:6:SPI1_IRQHandler	8	static

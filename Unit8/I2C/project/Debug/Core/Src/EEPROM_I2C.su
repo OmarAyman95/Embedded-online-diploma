@@ -1,0 +1,2 @@
+EEPROM_I2C.c:10:6:EEPROM_I2C_Ext_Write	72	static
+EEPROM_I2C.c:24:6:EEPROM_I2C_Ext_Read	40	static

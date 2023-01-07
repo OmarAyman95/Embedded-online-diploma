@@ -1,0 +1,6 @@
+clockSTM32.c:11:6:RCC_clock_source_select	16	static
+clockSTM32.c:40:6:RCC_HSE_select_BYBASS	4	static
+clockSTM32.c:44:6:RCC_Set_PLL	16	static
+clockSTM32.c:57:6:RCC_Set_Prescaler_Of_Buses	24	static
+clockSTM32.c:63:9:RCC_current_clock_source	4	static
+clockSTM32.c:68:6:RCC_MCO_setting	16	static

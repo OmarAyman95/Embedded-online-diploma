@@ -1,0 +1,2 @@
+keyPad.c:36:13:KeyPad_Waiting	16	static
+keyPad.c:40:6:KeyPad_Scanning	8	static

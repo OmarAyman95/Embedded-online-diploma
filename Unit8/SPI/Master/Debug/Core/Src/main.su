@@ -1,0 +1,5 @@
+main.c:31:5:main	40	static
+main.c:72:6:delay_ms	24	static
+main.c:80:6:clock_init	4	static
+main.c:85:6:port_init	8	static
+main.c:92:6:SPI_ISR	16	static
