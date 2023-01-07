@@ -1,0 +1,252 @@
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00002800         xrw
+ROM              0x08000000         0x00008000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x20002800                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x130
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x130 startup.o
+                0x08000000                g_pfnVectors
+                0x08000130                . = ALIGN (0x4)
+
+.text           0x08000130      0x1bc
+                0x08000130                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000130      0x144 bspSM32.o
+                0x08000130                clock_init
+                0x0800014c                port_init
+                0x08000194                interrupt_init
+                0x080001ec                pin13_TOGGLE
+                0x08000224                pin06POLLING
+                0x08000248                EXTI0_IRQHandler
+ .text          0x08000274       0x12 ToggleLED.o
+                0x08000274                main
+ .text          0x08000286       0x14 startup.o
+ *(.text*)
+ *fill*         0x0800029a        0x2 
+ .text.Reset_Handler
+                0x0800029c       0x4c startup.o
+                0x0800029c                Reset_Handler
+ .text.Default_Handler
+                0x080002e8        0x2 startup.o
+                0x080002e8                EXTI2_IRQHandler
+                0x080002e8                TIM8_TRG_COM_IRQHandler
+                0x080002e8                TIM8_CC_IRQHandler
+                0x080002e8                DebugMon_Handler
+                0x080002e8                TIM1_CC_IRQHandler
+                0x080002e8                HardFault_Handler
+                0x080002e8                TIM6_IRQHandler
+                0x080002e8                SysTick_Handler
+                0x080002e8                PVD_IRQHandler
+                0x080002e8                SDIO_IRQHandler
+                0x080002e8                PendSV_Handler
+                0x080002e8                NMI_Handler
+                0x080002e8                EXTI3_IRQHandler
+                0x080002e8                USB_HP_CAN_TX_IRQHandler
+                0x080002e8                I2C2_EV_IRQHandler
+                0x080002e8                UsageFault_Handler
+                0x080002e8                ADC1_2_IRQHandler
+                0x080002e8                SPI1_IRQHandler
+                0x080002e8                CAN_SCE_IRQHandler
+                0x080002e8                TAMPER_IRQHandler
+                0x080002e8                TIM8_UP_IRQHandler
+                0x080002e8                DMA2_Channel2_IRQHandler
+                0x080002e8                DMA1_Channel4_IRQHandler
+                0x080002e8                USART3_IRQHandler
+                0x080002e8                RTC_IRQHandler
+                0x080002e8                DMA1_Channel7_IRQHandler
+                0x080002e8                UART5_IRQHandler
+                0x080002e8                ADC3_IRQHandler
+                0x080002e8                TIM4_IRQHandler
+                0x080002e8                CAN_RX1_IRQHandler
+                0x080002e8                DMA2_Channel1_IRQHandler
+                0x080002e8                I2C1_EV_IRQHandler
+                0x080002e8                DMA1_Channel6_IRQHandler
+                0x080002e8                UART4_IRQHandler
+                0x080002e8                TIM3_IRQHandler
+                0x080002e8                RCC_IRQHandler
+                0x080002e8                TIM1_TRG_COM_IRQHandler
+                0x080002e8                DMA1_Channel1_IRQHandler
+                0x080002e8                Default_Handler
+                0x080002e8                EXTI15_10_IRQHandler
+                0x080002e8                TIM7_IRQHandler
+                0x080002e8                TIM5_IRQHandler
+                0x080002e8                EXTI9_5_IRQHandler
+                0x080002e8                SPI2_IRQHandler
+                0x080002e8                USB_LP_CAN_RX0_IRQHandler
+                0x080002e8                MemManage_Handler
+                0x080002e8                SVC_Handler
+                0x080002e8                DMA1_Channel5_IRQHandler
+                0x080002e8                EXTI4_IRQHandler
+                0x080002e8                DMA1_Channel3_IRQHandler
+                0x080002e8                FSMC_IRQHandler
+                0x080002e8                TIM1_UP_IRQHandler
+                0x080002e8                WWDG_IRQHandler
+                0x080002e8                TIM2_IRQHandler
+                0x080002e8                TIM1_BRK_IRQHandler
+                0x080002e8                EXTI1_IRQHandler
+                0x080002e8                RTCAlarm_IRQHandler
+                0x080002e8                DMA2_Channel4_5_IRQHandler
+                0x080002e8                USART2_IRQHandler
+                0x080002e8                I2C2_ER_IRQHandler
+                0x080002e8                DMA1_Channel2_IRQHandler
+                0x080002e8                TIM8_BRK_IRQHandler
+                0x080002e8                FLASH_IRQHandler
+                0x080002e8                BusFault_Handler
+                0x080002e8                USART1_IRQHandler
+                0x080002e8                SPI3_IRQHandler
+                0x080002e8                I2C1_ER_IRQHandler
+                0x080002e8                DMA2_Channel3_IRQHandler
+ *(.glue_7)
+ .glue_7        0x080002ea        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x080002ea        0x0 linker stubs
+ *(.eh_frame)
+ *(.init)
+ *(.fini)
+                0x080002ec                . = ALIGN (0x4)
+ *fill*         0x080002ea        0x2 
+                0x080002ec                _etext = .
+
+.vfp11_veneer   0x080002ec        0x0
+ .vfp11_veneer  0x080002ec        0x0 linker stubs
+
+.v4_bx          0x080002ec        0x0
+ .v4_bx         0x080002ec        0x0 linker stubs
+
+.iplt           0x080002ec        0x0
+ .iplt          0x080002ec        0x0 bspSM32.o
+
+.rel.dyn        0x080002ec        0x0
+ .rel.iplt      0x080002ec        0x0 bspSM32.o
+
+.rodata         0x080002ec        0x0
+                0x080002ec                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+                0x080002ec                . = ALIGN (0x4)
+
+.ARM.extab      0x080002ec        0x0
+                0x080002ec                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x080002ec                . = ALIGN (0x4)
+
+.ARM            0x080002ec        0x0
+                0x080002ec                . = ALIGN (0x4)
+                0x080002ec                __exidx_start = .
+ *(.ARM.exidx*)
+                0x080002ec                __exidx_end = .
+                0x080002ec                . = ALIGN (0x4)
+                0x080002ec                _sidata = LOADADDR (.data)
+
+.data           0x20000000        0x8 load address 0x080002ec
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000        0x8 bspSM32.o
+                0x20000000                GPIOA_ODR_REG
+                0x20000004                GPIOA_IDR_REG
+ .data          0x20000008        0x0 ToggleLED.o
+ .data          0x20000008        0x0 startup.o
+ *(.data*)
+                0x20000008                . = ALIGN (0x4)
+                0x20000008                _edata = .
+
+.igot.plt       0x20000008        0x0 load address 0x080002f4
+ .igot.plt      0x20000008        0x0 bspSM32.o
+                0x20000008                . = ALIGN (0x4)
+
+.bss            0x20000008        0x0 load address 0x080002f4
+                0x20000008                _sbss = .
+                0x20000008                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000008        0x0 bspSM32.o
+ .bss           0x20000008        0x0 ToggleLED.o
+ .bss           0x20000008        0x0 startup.o
+ *(.bss*)
+ *(.COMMON*)
+                0x20000008                . = ALIGN (0x4)
+                0x20000008                _ebss = .
+                0x20000008                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20000008      0x600 load address 0x080002f4
+                0x20000008                . = ALIGN (0x8)
+                [!provide]                PROVIDE (end, .)
+                [!provide]                PROVIDE (_end, .)
+                0x20000208                . = (. + _Min_Heap_Size)
+ *fill*         0x20000008      0x200 
+                0x20000608                . = (. + _Min_Stack_Size)
+ *fill*         0x20000208      0x400 
+                0x20000608                . = ALIGN (0x8)
+
+.ARM.attributes
+                0x00000000       0x31
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x33 bspSM32.o
+ .ARM.attributes
+                0x00000033       0x33 ToggleLED.o
+ .ARM.attributes
+                0x00000066       0x21 startup.o
+LOAD bspSM32.o
+LOAD ToggleLED.o
+LOAD startup.o
+OUTPUT(output.elf elf32-littlearm)
+
+.debug_info     0x00000000      0x4a6
+ .debug_info    0x00000000      0x3fe bspSM32.o
+ .debug_info    0x000003fe       0x86 ToggleLED.o
+ .debug_info    0x00000484       0x22 startup.o
+
+.debug_abbrev   0x00000000      0x138
+ .debug_abbrev  0x00000000       0xe2 bspSM32.o
+ .debug_abbrev  0x000000e2       0x44 ToggleLED.o
+ .debug_abbrev  0x00000126       0x12 startup.o
+
+.debug_loc      0x00000000      0x1dc
+ .debug_loc     0x00000000      0x1b0 bspSM32.o
+ .debug_loc     0x000001b0       0x2c ToggleLED.o
+
+.debug_aranges  0x00000000       0x68
+ .debug_aranges
+                0x00000000       0x20 bspSM32.o
+ .debug_aranges
+                0x00000020       0x20 ToggleLED.o
+ .debug_aranges
+                0x00000040       0x28 startup.o
+
+.debug_line     0x00000000      0x1f4
+ .debug_line    0x00000000      0x147 bspSM32.o
+ .debug_line    0x00000147       0x43 ToggleLED.o
+ .debug_line    0x0000018a       0x6a startup.o
+
+.debug_str      0x00000000      0x277
+ .debug_str     0x00000000      0x24d bspSM32.o
+                                0x28a (size before relaxing)
+ .debug_str     0x0000024d       0x11 ToggleLED.o
+                                0x131 (size before relaxing)
+ .debug_str     0x0000025e       0x19 startup.o
+                                 0x4a (size before relaxing)
+
+.comment        0x00000000       0x7e
+ .comment       0x00000000       0x7e bspSM32.o
+                                 0x7f (size before relaxing)
+ .comment       0x0000007e       0x7f ToggleLED.o
+
+.debug_frame    0x00000000      0x104
+ .debug_frame   0x00000000       0xd8 bspSM32.o
+ .debug_frame   0x000000d8       0x2c ToggleLED.o
+
+.debug_ranges   0x00000000       0x20
+ .debug_ranges  0x00000000       0x20 startup.o
