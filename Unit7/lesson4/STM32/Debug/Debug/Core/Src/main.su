@@ -1,0 +1,7 @@
+main.c:15:6:delay_ms	24	static
+main.c:24:6:IRQ14	16	static
+main.c:33:6:IRQx	4	static
+main.c:38:6:IRQ15	16	static
+main.c:47:6:clock_init	4	static
+main.c:52:6:port_init	8	static
+main.c:64:5:main	8	static

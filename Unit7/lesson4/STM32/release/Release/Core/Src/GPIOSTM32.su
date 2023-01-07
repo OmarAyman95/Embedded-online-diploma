@@ -1,0 +1,17 @@
+GPIOSTM32.c:10:6:GPIO_Init_Input_Pin	12	static
+GPIOSTM32.c:22:6:GPIO_Init_Output_Pin	0	static
+GPIOSTM32.c:30:6:GPIO_Set_Pin_Atomic	0	static
+GPIOSTM32.c:35:6:GPIO_Reset_Pin_Atomic	0	static
+GPIOSTM32.c:39:6:GPIO_Set_Pin	0	static
+GPIOSTM32.c:43:6:GPIO_Reset_Pin	0	static
+GPIOSTM32.c:47:6:GPIO_Toggle_Pin	0	static
+GPIOSTM32.c:51:10:GPIO_Read_Pin	0	static
+GPIOSTM32.c:55:6:GPIO_Set_pins	0	static
+GPIOSTM32.c:59:6:GPIO_Reset_pins	0	static
+GPIOSTM32.c:63:6:GPIO_Write_pins	0	static
+GPIOSTM32.c:68:6:GPIO_Clear_pins	0	static
+GPIOSTM32.c:72:6:GPIO_Init_All_Input	0	static
+GPIOSTM32.c:84:6:GPIO_Init_All_Output	0	static
+GPIOSTM32.c:89:6:GPIO_Write_Port	0	static
+GPIOSTM32.c:93:10:GPIO_Read_port	0	static
+GPIOSTM32.c:98:6:CRLH_Zeros	0	static

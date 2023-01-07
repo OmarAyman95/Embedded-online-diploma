@@ -1,0 +1,15 @@
+EXTI.c:13:13:External_Interrupt_Edge_Selector	16	static
+EXTI.c:25:13:Interrupt_Mask_Enable	16	static
+EXTI.c:31:13:Interrupt_Setting	16	static
+EXTI.c:48:6:Enable_IRQx	16	static
+EXTI.c:75:6:Disable_IRQx	16	static
+EXTI.c:109:6:External_Interrupt_Init	24	static
+EXTI.c:158:6:External_Interrupt_Reset	8	static
+EXTI.c:184:6:Software_Interrupt_Trigger	16	static
+EXTI.c:200:6:EXTI0_IRQHandler	8	static
+EXTI.c:211:6:EXTI1_IRQHandler	8	static
+EXTI.c:223:6:EXTI2_IRQHandler	8	static
+EXTI.c:234:6:EXTI3_IRQHandler	8	static
+EXTI.c:244:6:EXTI4_IRQHandler	8	static
+EXTI.c:255:6:EXTI9_5_IRQHandler	8	static
+EXTI.c:264:6:EXTI15_10_IRQHandler	8	static
