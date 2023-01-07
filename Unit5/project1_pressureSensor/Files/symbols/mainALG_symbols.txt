@@ -1,0 +1,9 @@
+
+main_ALG.o:
+         U get_pressure_val
+         U high_pressure_detected
+         U init_alarm
+         U init_sensor
+00000000 T main
+00000000 b p_val
+00000000 r threshould

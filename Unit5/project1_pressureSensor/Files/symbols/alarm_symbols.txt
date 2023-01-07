@@ -1,0 +1,5 @@
+
+alarm.o:
+00000000 T init_alarm
+0000007c T start_alarm
+00000128 T stop_alarm

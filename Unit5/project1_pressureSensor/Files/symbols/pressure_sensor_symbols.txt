@@ -1,0 +1,6 @@
+
+pressure_sensor.o:
+0000006c T get_pressure_val
+00000000 T init_sensor
+00000000 b p_val
+00000004 b Psensor_pull_time

@@ -1,0 +1,7 @@
+
+alarm_monitor.o:
+00000000 r alarm_period
+00000000 b alarm_timer
+00000000 T high_pressure_detected
+         U start_alarm
+         U stop_alarm
