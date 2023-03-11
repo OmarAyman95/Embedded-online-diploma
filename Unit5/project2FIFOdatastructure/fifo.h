@@ -10,16 +10,16 @@
 
 
 typedef struct{
-		int8_t course1 [45];
-		int8_t course2 [45];
-		int8_t course3 [45];
-		int8_t course4 [45];
-		int8_t course5 [45];
-		int8_t course6 [45];
-		int8_t course7 [45];
-		int8_t course8 [45];
-		int8_t course9 [45];
-		int8_t course10[45];
+	int8_t course1 [45];
+	int8_t course2 [45];
+	int8_t course3 [45];
+	int8_t course4 [45];
+	int8_t course5 [45];
+	int8_t course6 [45];
+	int8_t course7 [45];
+	int8_t course8 [45];
+	int8_t course9 [45];
+	int8_t course10[45];
 	}Sstudent_courses_t;
 
 	typedef struct{
