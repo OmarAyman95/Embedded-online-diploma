@@ -1,0 +1,64 @@
+# ninja log v5
+1	53	7021780070000000	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/BrowseInfo/main.xcl	1f0a38ff010c5d6c
+8	187	7022222910000000	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/BrowseInfo/startup.xcl	7169e2a9ba6a32b9
+0	89	7022579213354681	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/BrowseInfo/main.pbi	a49a9ff0d91a8c40
+92	135	7022579213824681	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbd	f8ecad1b78e60ac3
+140	780	7022579220025464	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbw	5a7e728874e005f7
+194	270	7022222917541086	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/BrowseInfo/startup.pbi	7c93255f5823da4c
+1	197	7023176260000000	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/startup.xcl	ae09d1cd0c5810c0
+22	173	7023176260000000	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/main.xcl	782fcf43ab11e217
+0	213	7024435693360080	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/main.pbi	d2a0527940cfcc58
+201	351	7023176263274845	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/startup.pbi	4e7a432b2038017c
+217	267	7024435693940091	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbd	89ec86d6fedc767c
+271	1120	7024435702260986	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbw	d548d82ed4ff18b1
+28	90	7024449130000000	E:/microcontrollers/Embedded diploma/unit 14/practical/session 3 - LAB2/IAR-TIVA c/LESSON/Debug/BrowseInfo/startup.xcl	2431b51e6a0f011c
+8	98	7024449130000000	E:/microcontrollers/Embedded diploma/unit 14/practical/session 3 - LAB2/IAR-TIVA c/LESSON/Debug/BrowseInfo/main.xcl	192127396a8016c9
+94	168	7024449138933157	E:/microcontrollers/Embedded diploma/unit 14/practical/session 3 - LAB2/IAR-TIVA c/LESSON/Debug/BrowseInfo/startup.pbi	775a4c45d242256b
+0	73	7025188430000000	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/main.xcl	bf4e17871e82c658
+0	92	7025002281122612	E:/microcontrollers/Embedded diploma/unit 14/practical/session 3 - LAB2/IAR-TIVA c/LESSON/Debug/BrowseInfo/main.pbi	bfdd7b67b0a12d5a
+94	140	7025002281612545	E:/microcontrollers/Embedded diploma/unit 14/practical/session 3 - LAB2/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbd	543a99061f53d42c
+142	749	7025002287482891	E:/microcontrollers/Embedded diploma/unit 14/practical/session 3 - LAB2/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbw	55b406abfea4b976
+4	65	7025188430000000	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/startup.xcl	29f867076e477273
+70	132	7025188438603433	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/startup.pbi	28403cd0f08c6b1
+1	83	7025189961013642	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/main.pbi	96d3951be8d6742b
+86	126	7025189961457450	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbd	4f94c0be42170513
+129	672	7025189966706186	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbw	a30dfbfe6a1d795
+1	84	7025190068600092	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/main.pbi	96d3951be8d6742b
+87	127	7025190069046219	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbd	4f94c0be42170513
+131	673	7025190074269386	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbw	a30dfbfe6a1d795
+1	83	7025190377115666	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/main.pbi	96d3951be8d6742b
+86	126	7025190377563344	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbd	4f94c0be42170513
+130	679	7025190382889231	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbw	a30dfbfe6a1d795
+0	82	7025190434356611	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/main.pbi	96d3951be8d6742b
+86	127	7025190434829598	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbd	4f94c0be42170513
+131	666	7025190440006051	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbw	a30dfbfe6a1d795
+0	80	7025191145637091	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/main.pbi	96d3951be8d6742b
+83	123	7025191146086429	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbd	4f94c0be42170513
+127	677	7025191151419885	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbw	a30dfbfe6a1d795
+0	82	7025191454216619	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/main.pbi	96d3951be8d6742b
+85	128	7025191454703203	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbd	4f94c0be42170513
+132	696	7025191460158238	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbw	a30dfbfe6a1d795
+0	85	7025192667686662	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/main.pbi	96d3951be8d6742b
+89	136	7025192668226884	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbd	4f94c0be42170513
+138	728	7025192673922263	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbw	a30dfbfe6a1d795
+0	82	7025197953886331	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/main.pbi	96d3951be8d6742b
+86	126	7025197954357447	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbd	4f94c0be42170513
+129	691	7025197959801702	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbw	a30dfbfe6a1d795
+0	130	7025213444402119	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/main.pbi	96d3951be8d6742b
+134	207	7025213445212695	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbd	4f94c0be42170513
+211	881	7025213451739335	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbw	a30dfbfe6a1d795
+0	83	7025213754691428	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/main.pbi	96d3951be8d6742b
+87	128	7025213755161694	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbd	4f94c0be42170513
+131	685	7025213760496485	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbw	a30dfbfe6a1d795
+1	93	7025215521448117	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/main.pbi	96d3951be8d6742b
+97	141	7025215521957455	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbd	4f94c0be42170513
+143	789	7025215528197465	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbw	a30dfbfe6a1d795
+1	185	7025216083355731	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/main.pbi	96d3951be8d6742b
+189	228	7025216083815450	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbd	4f94c0be42170513
+233	783	7025216089156988	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbw	a30dfbfe6a1d795
+0	96	7025217297251889	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/main.pbi	96d3951be8d6742b
+99	142	7025217297731098	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbd	4f94c0be42170513
+144	718	7025217303279175	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbw	a30dfbfe6a1d795
+1	88	7025224193393595	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/main.pbi	96d3951be8d6742b
+93	134	7025224193874448	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbd	4f94c0be42170513
+138	687	7025224199183357	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/BrowseInfo/ARMcorteXM4F.pbw	a30dfbfe6a1d795
