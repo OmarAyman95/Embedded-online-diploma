@@ -31,3 +31,4 @@ clean_all:
 
 clean:
 	rm *.bin *.elf
+
