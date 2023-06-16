@@ -1,55 +1,23 @@
 # ninja log v5
-5	65	7022410664037665	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/Obj/startup.o	f6ec515563b8c463
 113	143	7022579187877621	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/Exe/ARMcorteXM4F.out	a2ea072bed9b60a1
+5	65	7022410664037665	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/Obj/startup.o	f6ec515563b8c463
 1	106	7022579187478249	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/Obj/main.o	342e0f4ca1192553
-230	276	7024435678863871	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/Exe/ARMcorteXM4F.out	5cd55ee6f3b815fa
 6	149	7024392310915887	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/Obj/startup.o	7e6e165d39aa5330
+230	276	7024435678863871	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/Exe/ARMcorteXM4F.out	5cd55ee6f3b815fa
 1	226	7024435678333877	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/Obj/main.o	f3b7820fb4bc8002
-1	101	7025002263049619	E:/microcontrollers/Embedded diploma/unit 14/practical/session 3 - LAB2/IAR-TIVA c/LESSON/Debug/Obj/main.o	837b2253a695a6dd
 5	143	7024449360000238	E:/microcontrollers/Embedded diploma/unit 14/practical/session 3 - LAB2/IAR-TIVA c/LESSON/Debug/Obj/startup.o	307ea5c6006d9b35
+1	101	7025002263049619	E:/microcontrollers/Embedded diploma/unit 14/practical/session 3 - LAB2/IAR-TIVA c/LESSON/Debug/Obj/main.o	837b2253a695a6dd
 107	137	7025002263440802	E:/microcontrollers/Embedded diploma/unit 14/practical/session 3 - LAB2/IAR-TIVA c/LESSON/Debug/Exe/ARMcorteXM4F.out	a05bb84eb6e902a9
-6	141	7025156656581941	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/IAR-TIVA c/LESSON/Debug/Obj/startup.o	818c515f808dd065
-0	172	7025156656939581	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/IAR-TIVA c/LESSON/Debug/Obj/main.o	bde44a44e2cef6c3
-178	214	7025156657572804	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/IAR-TIVA c/LESSON/Debug/Exe/ARMcorteXM4F.out	c94bfc3ef11a2be1
-1	119	7025157291726259	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/IAR-TIVA c/LESSON/Debug/Obj/main.o	bde44a44e2cef6c3
-125	160	7025157292175824	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/IAR-TIVA c/LESSON/Debug/Exe/ARMcorteXM4F.out	c94bfc3ef11a2be1
-2	129	7025159647667117	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/IAR-TIVA c/LESSON/Debug/Obj/main.o	bde44a44e2cef6c3
-134	169	7025159648129581	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/IAR-TIVA c/LESSON/Debug/Exe/ARMcorteXM4F.out	c94bfc3ef11a2be1
-1	148	7025159854913582	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/IAR-TIVA c/LESSON/Debug/Obj/main.o	bde44a44e2cef6c3
-153	182	7025159855435680	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/IAR-TIVA c/LESSON/Debug/Exe/ARMcorteXM4F.out	c94bfc3ef11a2be1
-1	105	7025160044381693	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/IAR-TIVA c/LESSON/Debug/Obj/main.o	bde44a44e2cef6c3
-109	138	7025160044749394	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/IAR-TIVA c/LESSON/Debug/Exe/ARMcorteXM4F.out	c94bfc3ef11a2be1
-1	118	7025160847356037	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/IAR-TIVA c/LESSON/Debug/Obj/main.o	bde44a44e2cef6c3
-123	157	7025160847793149	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/IAR-TIVA c/LESSON/Debug/Exe/ARMcorteXM4F.out	c94bfc3ef11a2be1
-2	118	7025161908539308	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/IAR-TIVA c/LESSON/Debug/Obj/main.o	bde44a44e2cef6c3
-123	156	7025161908971281	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/IAR-TIVA c/LESSON/Debug/Exe/ARMcorteXM4F.out	c94bfc3ef11a2be1
-1	159	7025189923407668	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/main.o	d703b32214afbe57
-4	70	7025190226776602	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/startup.o	d862fc6bd8d9442d
-0	100	7025190227060022	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/main.o	d703b32214afbe57
-104	143	7025190227522743	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Exe/ARMcorteXM4F.out	9c95e75714c990fc
-5	83	7025190340582977	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/startup.o	d862fc6bd8d9442d
-1	129	7025190341050289	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/main.o	d703b32214afbe57
-133	164	7025190341443074	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Exe/ARMcorteXM4F.out	9c95e75714c990fc
+1	138	7085597901176082	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/main.o	d703b32214afbe57
 4	70	7025190427192625	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/startup.o	d862fc6bd8d9442d
-0	113	7025190427620646	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/main.o	d703b32214afbe57
-118	146	7025190427984549	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Exe/ARMcorteXM4F.out	9c95e75714c990fc
-1	121	7025191104679760	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/main.o	d703b32214afbe57
-125	159	7025191105103105	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Exe/ARMcorteXM4F.out	9c95e75714c990fc
-1	110	7025191438506967	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/main.o	d703b32214afbe57
-115	145	7025191438886845	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Exe/ARMcorteXM4F.out	9c95e75714c990fc
-1	118	7025192645769397	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/main.o	d703b32214afbe57
-123	156	7025192646177059	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Exe/ARMcorteXM4F.out	9c95e75714c990fc
-1	151	7025197937609565	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/main.o	d703b32214afbe57
-155	186	7025197938182897	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Exe/ARMcorteXM4F.out	9c95e75714c990fc
-2	208	7025213441652422	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/main.o	d703b32214afbe57
-214	322	7025213442811867	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Exe/ARMcorteXM4F.out	9c95e75714c990fc
-1	91	7025213738315828	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/main.o	d703b32214afbe57
-96	126	7025213738697420	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Exe/ARMcorteXM4F.out	9c95e75714c990fc
-1	104	7025215483332522	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/main.o	d703b32214afbe57
-107	139	7025215483718959	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Exe/ARMcorteXM4F.out	9c95e75714c990fc
-1	94	7025216071379087	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/main.o	d703b32214afbe57
-100	129	7025216071758938	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Exe/ARMcorteXM4F.out	9c95e75714c990fc
-1	162	7025217295400500	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/main.o	d703b32214afbe57
-166	196	7025217295966265	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Exe/ARMcorteXM4F.out	9c95e75714c990fc
-1	157	7025227296119892	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/main.o	d703b32214afbe57
-161	196	7025227296762183	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Exe/ARMcorteXM4F.out	9c95e75714c990fc
+143	170	7085597901645230	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Exe/ARMcorteXM4F.out	9c95e75714c990fc
+1	92	7085599021051913	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/main.o	d703b32214afbe57
+97	122	7085599021386045	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Exe/ARMcorteXM4F.out	9c95e75714c990fc
+1	161	7086204495503586	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/main.o	d703b32214afbe57
+165	199	7086204496119978	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Exe/ARMcorteXM4F.out	9c95e75714c990fc
+1	91	7086205064224143	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/main.o	d703b32214afbe57
+96	121	7086205064565624	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Exe/ARMcorteXM4F.out	9c95e75714c990fc
+1	95	7086205265253447	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/main.o	d703b32214afbe57
+99	124	7086205265576565	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Exe/ARMcorteXM4F.out	9c95e75714c990fc
+1	86	7086205478353507	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Obj/main.o	d703b32214afbe57
+92	118	7086205478696002	E:/microcontrollers/Embedded diploma/unit 14/practical/session 4 - LAB3/Debug/Exe/ARMcorteXM4F.out	9c95e75714c990fc
