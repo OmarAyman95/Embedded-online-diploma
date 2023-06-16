@@ -18,17 +18,17 @@
     <LmiFtdiDriver>
         <LMIFTDIserialNo>MFG-TEST</LMIFTDIserialNo>
         <LMIFTDIfoundProbes />
-        <LeaveTargetRunning>_ 0</LeaveTargetRunning>
-        <CStepIntDis>_ 0</CStepIntDis>
         <LmiFtdiResetStyle>0</LmiFtdiResetStyle>
         <LmiFtdiResetStrategy>0</LmiFtdiResetStrategy>
+        <LeaveTargetRunning>_ 0</LeaveTargetRunning>
+        <CStepIntDis>_ 0</CStepIntDis>
     </LmiFtdiDriver>
     <PlDriver>
         <FirstRun>0</FirstRun>
         <MemConfigValue>C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\CONFIG\debugger\TexasInstruments\TM4C123GH6PM.ddf</MemConfigValue>
     </PlDriver>
     <DebugChecksum>
-        <Checksum>3980035120</Checksum>
+        <Checksum>4176400911</Checksum>
     </DebugChecksum>
     <Exceptions>
         <StopOnUncaught>_ 0</StopOnUncaught>
@@ -42,8 +42,8 @@
         <ShowArgs>0</ShowArgs>
     </CallStack>
     <ArmDriver>
-        <EnforceMemoryConfiguration>1</EnforceMemoryConfiguration>
         <EnableCache>0</EnableCache>
+        <EnforceMemoryConfiguration>1</EnforceMemoryConfiguration>
     </ArmDriver>
     <JLinkDriver>
         <jlinkResetStyle>12</jlinkResetStyle>
@@ -114,21 +114,17 @@
         <FreqHi>0</FreqHi>
         <MultiCoreRunAll>1</MultiCoreRunAll>
     </Simulator>
-    <LogFile>
-        <LoggingEnabled>_ 0</LoggingEnabled>
-        <LogFile>_ "$PROJ_DIR$\LogFile1.log"</LogFile>
-        <Category2>_ 2</Category2>
-    </LogFile>
+    <array_types>
+        <Fmt0>int[10]	4	0</Fmt0>
+    </array_types>
     <watch_formats>
-        <Fmt0>{W}42:MSP_STACK_END	4	0</Fmt0>
-        <Fmt1>{W}42:MSP_STACK_START	4	0</Fmt1>
-        <Fmt2>{W}42:PSP_STACK_TASK_A_END	4	0</Fmt2>
-        <Fmt3>{W}42:PSP_STACK_TASK_A_START	4	0</Fmt3>
-        <Fmt4>{W}42:PSP_STACK_TASK_B_START	4	0</Fmt4>
-        <Fmt5>{W}42:Var1	4	0</Fmt5>
-        <Fmt6>{W}42:Var2	4	0</Fmt6>
-        <Fmt7>{W}42:Var3	4	0</Fmt7>
-        <Fmt8>{W}42:result	4	0</Fmt8>
+        <Fmt0>{W}42:Current_MSP_Value	4	0</Fmt0>
+        <Fmt1>{W}42:StackEnd	4	0</Fmt1>
+        <Fmt2>{W}42:Var1	4	0</Fmt2>
+        <Fmt3>{W}42:Var2	4	0</Fmt3>
+        <Fmt4>{W}42:Var3	4	0</Fmt4>
+        <Fmt5>{W}42:result	4	0</Fmt5>
+        <Fmt6>{W}42:stackPspTask	4	0</Fmt6>
     </watch_formats>
     <Trace2>
         <Enabled>0</Enabled>
@@ -138,12 +134,19 @@
         <LoggingEnabled>_ 0</LoggingEnabled>
         <LogFile>_ ""</LogFile>
     </TermIOLog>
+    <LogFile>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ "$PROJ_DIR$\LogFile1.log"</LogFile>
+        <Category2>_ 2</Category2>
+    </LogFile>
     <DisassembleMode>
         <mode>0</mode>
     </DisassembleMode>
     <Breakpoints2>
-        <Bp0>_ 1 "EMUL_CODE" "{$PROJ_DIR$\main.c}.89.3" 0 0 1 "" 0 "" 0</Bp0>
-        <Count>1</Count>
+        <Bp0>_ 1 "EMUL_CODE" "{$PROJ_DIR$\main.c}.50.5" 0 0 1 "" 0 "" 0</Bp0>
+        <Bp1>_ 1 "EMUL_CODE" "{$PROJ_DIR$\main.c}.51.5" 0 0 1 "" 0 "" 0</Bp1>
+        <Bp2>_ 1 "EMUL_CODE" "{$PROJ_DIR$\main.c}.52.5" 0 0 1 "" 0 "" 0</Bp2>
+        <Count>3</Count>
     </Breakpoints2>
     <Aliases>
         <Count>0</Count>

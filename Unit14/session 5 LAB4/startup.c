@@ -166,10 +166,7 @@ int const __vector_table[] @ ".intvec" = {
 
 };
 
-__stackless void assert_failed (char const *file, int line) {
-  /* TBD: damage control */
-  NVIC_SystemReset(); /* reset the system */
-}
+
 
 __stackless void HardFault_Handler(void) {
     assert_failed("HardFault", __LINE__);
