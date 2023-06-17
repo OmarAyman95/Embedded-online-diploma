@@ -1,0 +1,15 @@
+RESET
+		mov		R0,#5
+		bl		main
+		
+main
+		bl		substract
+endless
+		bl		endless
+		
+substract
+		sub		R0, R0, #1
+		cmp		R0, #0
+		bne		substract
+		mov		pc,lr
+		
