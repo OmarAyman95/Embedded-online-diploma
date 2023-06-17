@@ -1,7 +1,6 @@
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include "lm4f120h5qr.h"
 #include "tm4c_cmsis.h"
 
 /*===================================================MACROs==============================================*/
@@ -40,21 +39,21 @@ int main()
    __asm volatile("SVC #0x2"); // make exception
     while(1)
   {    
-    GPIO_PORTF_AHB_DATA_BITS_R[LED_RED] = LED_RED;
+   GPIOF_HS->DATA_Bits[LED_RED] = LED_RED;
     WAIT();
-    GPIO_PORTF_AHB_DATA_BITS_R[LED_RED] = 0;
+    GPIOF_HS->DATA_Bits[LED_RED] = 0;
     WAIT();
   }
 }
  void init(void)
 {
-  SYSCTL_RCGCGPIO_R |= (1U << 5);
-  SYSCTL_GPIOHBCTL_R |=(1U << 5);
-  GPIO_PORTF_AHB_DIR_R  |= (LED_RED | LED_GREEN |LED_BLUE);
-  GPIO_PORTF_AHB_DEN_R  |= (LED_RED | LED_GREEN |LED_BLUE);
-  GPIO_PORTF_AHB_DATA_BITS_R[LED_BLUE] = LED_OFF;
-  GPIO_PORTF_AHB_DATA_BITS_R[LED_GREEN] = LED_OFF;
-  GPIO_PORTF_AHB_DATA_BITS_R[LED_RED] = LED_OFF;
+  SYSCTL->RCGC2|= (1U << 5);
+  SYSCTL->GPIOHSCTL |=(1U << 5);
+  GPIOF_HS->DIR |= (LED_RED | LED_GREEN |LED_BLUE);
+  GPIOF_HS->DEN |= (LED_RED | LED_GREEN |LED_BLUE);
+  GPIOF_HS->DATA_Bits[LED_BLUE] = LED_OFF;
+  GPIOF_HS->DATA_Bits[LED_GREEN] = LED_OFF;
+  GPIOF_HS->DATA_Bits[LED_RED] = LED_OFF;
 }
 
 void SVC_Handler(void) {

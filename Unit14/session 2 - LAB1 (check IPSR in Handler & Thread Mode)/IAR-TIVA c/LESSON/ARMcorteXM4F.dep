@@ -5,74 +5,50 @@
     <configuration>
         <name>Debug</name>
         <outputs>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>$PROJ_DIR$\..\CMSIS\Include\arm_const_structs.h</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>$PROJ_DIR$\lm4f120h5qr.h</file>
+            <file>$PROJ_DIR$\startup.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
             <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
             <file>$PROJ_DIR$\..\..\..\..\..\..\Embedded diploma2\4_Automotive and ARM cortex\01 Introduction To ARM Cortex M4 (STM32F4)(20H)\03 Lectures\01 ARM Architecture and STM32F4 Features(10.5H)\ARM practical\IAR\CMSIS\Include\core_cmFunc.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\aarch32\cmsis_iar.h</file>
+            <file>$PROJ_DIR$\..\CMSIS\Include\arm_common_tables.h</file>
             <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
-            <file>$PROJ_DIR$\Debug\Exe\ARMcorteXM4F.out</file>
-            <file>$TOOLKIT_DIR$\inc\c\aarch32\iccarm_builtin.h</file>
-            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\cmsis_iar.h</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
             <file>$PROJ_DIR$\..\..\..\..\..\..\Embedded diploma2\4_Automotive and ARM cortex\01 Introduction To ARM Cortex M4 (STM32F4)(20H)\03 Lectures\01 ARM Architecture and STM32F4 Features(10.5H)\ARM practical\IAR\CMSIS\Include\core_cmInstr.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
-            <file>$PROJ_DIR$\tm4c_cmsis.h</file>
-            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
-            <file>$PROJ_DIR$\..\..\..\..\..\..\Embedded diploma2\4_Automotive and ARM cortex\01 Introduction To ARM Cortex M4 (STM32F4)(20H)\03 Lectures\01 ARM Architecture and STM32F4 Features(10.5H)\ARM practical\IAR\LESSON\ARMcorteXM4F.icf</file>
-            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
-            <file>$TOOLKIT_DIR$\lib\m7M_tls.a</file>
-            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
-            <file>$PROJ_DIR$\Debug\List\ARMcorteXM4F.map</file>
-            <file>$PROJ_DIR$\Debug\Obj\startup.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
             <file>$PROJ_DIR$\..\..\..\..\..\..\Embedded diploma2\4_Automotive and ARM cortex\01 Introduction To ARM Cortex M4 (STM32F4)(20H)\03 Lectures\01 ARM Architecture and STM32F4 Features(10.5H)\ARM practical\IAR\CMSIS\Include\core_cmSimd.h</file>
             <file>$PROJ_DIR$\..\..\..\..\..\..\Embedded diploma2\4_Automotive and ARM cortex\01 Introduction To ARM Cortex M4 (STM32F4)(20H)\03 Lectures\01 ARM Architecture and STM32F4 Features(10.5H)\ARM practical\IAR\CMSIS\Include\core_cm4.h</file>
             <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$PROJ_DIR$\tm4c_cmsis.h</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tls.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\Debug\List\ARMcorteXM4F.map</file>
             <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
-            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
-            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
-            <file>$PROJ_DIR$\..\CMSIS\Include\arm_common_tables.h</file>
-            <file>$PROJ_DIR$\..\CMSIS\Include\arm_const_structs.h</file>
-            <file>$PROJ_DIR$\lm4f120h5qr.h</file>
-            <file>$PROJ_DIR$\main.c</file>
-            <file>$PROJ_DIR$\startup.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Embedded diploma2\4_Automotive and ARM cortex\01 Introduction To ARM Cortex M4 (STM32F4)(20H)\03 Lectures\01 ARM Architecture and STM32F4 Features(10.5H)\ARM practical\IAR\LESSON\ARMcorteXM4F.icf</file>
+            <file>$PROJ_DIR$\Debug\Exe\ARMcorteXM4F.out</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\iccarm_builtin.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
         </outputs>
-        <file>
-            <name>[ROOT_NODE]</name>
-            <outputs>
-                <tool>
-                    <name>ILINK</name>
-                    <file> 6 18</file>
-                </tool>
-            </outputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\Debug\Exe\ARMcorteXM4F.out</name>
-            <outputs>
-                <tool>
-                    <name>ILINK</name>
-                    <file> 18</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ILINK</name>
-                    <file> 13 10 19 24 8 15 12</file>
-                </tool>
-            </inputs>
-        </file>
         <file>
             <name>$PROJ_DIR$\main.c</name>
             <outputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 10</file>
+                    <file> 17</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 14 22 17 4 25 0 16 2 5 23 28 11 21 9 3 7 1 20</file>
+                    <file> 28 16 20 9 13 6 30 5 0 22 18 15 12 10 26 7 14</file>
                 </tool>
             </inputs>
         </file>
@@ -81,13 +57,37 @@
             <outputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 19</file>
+                    <file> 25</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 11 21 14 22 17 4 25 0 9 3 7 1 20</file>
+                    <file> 18 15 28 16 20 9 13 6 12 10 26 7 14</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 24 21</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\ARMcorteXM4F.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 21</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 23 17 25 11 29 19 27</file>
                 </tool>
             </inputs>
         </file>

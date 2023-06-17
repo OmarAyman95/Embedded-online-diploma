@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 5 -LAB4 ( switch between MSP and PSP)\settings\ARMcorteXM4F.Debug.general.xcl" --backend -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 5 -LAB4 ( switch between MSP and PSP)\settings\ARMcorteXM4F.Debug.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 5 -LAB4 ( switch between MSP and PSP - simple schedular)\settings\ARMcorteXM4F.Debug.general.xcl" --backend -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 5 -LAB4 ( switch between MSP and PSP - simple schedular)\settings\ARMcorteXM4F.Debug.driver.xcl" 
 }
 else
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 5 -LAB4 ( switch between MSP and PSP)\settings\ARMcorteXM4F.Debug.general.xcl" --debug_file=$debugfile --backend -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 5 -LAB4 ( switch between MSP and PSP)\settings\ARMcorteXM4F.Debug.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 5 -LAB4 ( switch between MSP and PSP - simple schedular)\settings\ARMcorteXM4F.Debug.general.xcl" --debug_file=$debugfile --backend -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 5 -LAB4 ( switch between MSP and PSP - simple schedular)\settings\ARMcorteXM4F.Debug.driver.xcl" 
 }

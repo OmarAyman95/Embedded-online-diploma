@@ -1,15 +1,15 @@
-"E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 - LAB3\main.c"
+"E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 - LAB3 (switch from User to Priveleged)\main.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 - LAB3\Debug\BrowseInfo\main.pbi.dep
+E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 - LAB3 (switch from User to Priveleged)\Debug\BrowseInfo\main.pbi.dep
 -o
-E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 - LAB3\Debug\BrowseInfo\main.pbi
+E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 - LAB3 (switch from User to Priveleged)\Debug\BrowseInfo\main.pbi
 -I
-E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 - LAB3
+E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 - LAB3 (switch from User to Priveleged)
 -I
 E:\microcontrollers\Embedded diploma2\4_Automotive and ARM cortex\01 Introduction To ARM Cortex M4 (STM32F4)(20H)\03 Lectures\01 ARM Architecture and STM32F4 Features(10.5H)\ARM practical\IAR\CMSIS\Include\
 -I

@@ -1,28 +1,30 @@
 ###############################################################################
 #
-# IAR ELF Linker V9.30.1.335/W64 for ARM                  16/Jun/2023  15:09:07
+# IAR ELF Linker V9.30.1.335/W64 for ARM                  17/Jun/2023  22:08:39
 # Copyright 2007-2022 IAR Systems AB.
 #
 #    Output file  =
 #        E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 -
-#        LAB3\Debug\Exe\ARMcorteXM4F.out
+#        LAB3 (switch from User to Priveleged)\Debug\Exe\ARMcorteXM4F.out
 #    Map file     =
 #        E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 -
-#        LAB3\Debug\List\ARMcorteXM4F.map
+#        LAB3 (switch from User to Priveleged)\Debug\List\ARMcorteXM4F.map
 #    Command line =
 #        -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 -
-#        LAB3\Debug\Exe\ARMcorteXM4F.out.rsp" ("E:\microcontrollers\Embedded
-#        diploma\unit 14\practical\session 4 - LAB3\Debug\Obj\main.o"
+#        LAB3 (switch from User to Priveleged)\Debug\Exe\ARMcorteXM4F.out.rsp"
+#        ("E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 -
+#        LAB3 (switch from User to Priveleged)\Debug\Obj\main.o"
 #        "E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 -
-#        LAB3\Debug\Obj\startup.o" --no_out_extension -o
+#        LAB3 (switch from User to Priveleged)\Debug\Obj\startup.o"
+#        --no_out_extension -o "E:\microcontrollers\Embedded diploma\unit
+#        14\practical\session 4 - LAB3 (switch from User to
+#        Priveleged)\Debug\Exe\ARMcorteXM4F.out" --redirect
+#        _Printf=_PrintfFullNoMb --redirect _Scanf=_ScanfFullNoMb --map
 #        "E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 -
-#        LAB3\Debug\Exe\ARMcorteXM4F.out" --redirect _Printf=_PrintfFullNoMb
-#        --redirect _Scanf=_ScanfFullNoMb --map "E:\microcontrollers\Embedded
-#        diploma\unit 14\practical\session 4 -
-#        LAB3\Debug\List\ARMcorteXM4F.map" --config
-#        "E:\microcontrollers\Embedded diploma2\4_Automotive and ARM cortex\01
-#        Introduction To ARM Cortex M4 (STM32F4)(20H)\03 Lectures\01 ARM
-#        Architecture and STM32F4 Features(10.5H)\ARM
+#        LAB3 (switch from User to Priveleged)\Debug\List\ARMcorteXM4F.map"
+#        --config "E:\microcontrollers\Embedded diploma2\4_Automotive and ARM
+#        cortex\01 Introduction To ARM Cortex M4 (STM32F4)(20H)\03 Lectures\01
+#        ARM Architecture and STM32F4 Features(10.5H)\ARM
 #        practical\IAR\LESSON\ARMcorteXM4F.icf" --semihosting --entry
 #        __iar_program_start --redirect __write=__write_buffered --redirect
 #        __iar_sh_stdout=__iar_sh_stdout_swo --vfe --text_out locale
@@ -127,7 +129,7 @@ command line/config:
     -------------------------------------------
     Total:
 
-E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 - LAB3\Debug\Obj: [1]
+E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 - LAB3 (switch from User to Priveleged)\Debug\Obj: [1]
     main.o                308                 4
     startup.o              84      676
     -------------------------------------------
@@ -325,7 +327,7 @@ uDMAError_IRQHandler          0x3d3    0xa  Code  Wk  startup.o [1]
 uDMAST_IRQHandler             0x3d3    0xa  Code  Wk  startup.o [1]
 
 
-[1] = E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 - LAB3\Debug\Obj
+[1] = E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 - LAB3 (switch from User to Priveleged)\Debug\Obj
 [2] = dl7M_tln.a
 [3] = m7M_tls.a
 [4] = rt7M_tl.a

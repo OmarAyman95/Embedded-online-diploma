@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 3 - LAB2\IAR-TIVA c\LESSON\settings\ARMcorteXM4F.Debug.general.xcl" --backend -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 3 - LAB2\IAR-TIVA c\LESSON\settings\ARMcorteXM4F.Debug.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 3 - LAB2 (inline assembly)\IAR-TIVA c\LESSON\settings\ARMcorteXM4F.Debug.general.xcl" --backend -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 3 - LAB2 (inline assembly)\IAR-TIVA c\LESSON\settings\ARMcorteXM4F.Debug.driver.xcl" 
 }
 else
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 3 - LAB2\IAR-TIVA c\LESSON\settings\ARMcorteXM4F.Debug.general.xcl" --debug_file=$debugfile --backend -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 3 - LAB2\IAR-TIVA c\LESSON\settings\ARMcorteXM4F.Debug.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 3 - LAB2 (inline assembly)\IAR-TIVA c\LESSON\settings\ARMcorteXM4F.Debug.general.xcl" --debug_file=$debugfile --backend -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 3 - LAB2 (inline assembly)\IAR-TIVA c\LESSON\settings\ARMcorteXM4F.Debug.driver.xcl" 
 }

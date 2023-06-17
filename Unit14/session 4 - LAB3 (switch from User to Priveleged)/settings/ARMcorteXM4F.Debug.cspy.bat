@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 - LAB3\settings\ARMcorteXM4F.Debug.general.xcl" --backend -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 - LAB3\settings\ARMcorteXM4F.Debug.driver.xcl" 
+"C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 - LAB3 (switch from User to Priveleged)\settings\ARMcorteXM4F.Debug.general.xcl" --backend -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 - LAB3 (switch from User to Priveleged)\settings\ARMcorteXM4F.Debug.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 - LAB3\settings\ARMcorteXM4F.Debug.general.xcl" "--debug_file=%~1" --backend -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 - LAB3\settings\ARMcorteXM4F.Debug.driver.xcl" 
+"C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 - LAB3 (switch from User to Priveleged)\settings\ARMcorteXM4F.Debug.general.xcl" "--debug_file=%~1" --backend -f "E:\microcontrollers\Embedded diploma\unit 14\practical\session 4 - LAB3 (switch from User to Priveleged)\settings\ARMcorteXM4F.Debug.driver.xcl" 
 
 @echo off 
 :end

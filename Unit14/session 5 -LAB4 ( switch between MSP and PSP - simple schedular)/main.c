@@ -1,7 +1,6 @@
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include "lm4f120h5qr.h"
 #include "tm4c_cmsis.h"
 /*===================================================MACROs==============================================*/
 #define LED_RED   (1U << 1)
@@ -53,18 +52,19 @@ int main()
 
     while(1)
     {    
-         
-        GPIO_PORTF_AHB_DATA_BITS_R[LED_RED] = LED_RED;
+    
+    
+        GPIOF_HS->DATA_Bits[LED_RED] = LED_RED;
         WAIT();
-        GPIO_PORTF_AHB_DATA_BITS_R[LED_RED] = 0;
+        GPIOF_HS->DATA_Bits[LED_RED] = 0;
         
-        GPIO_PORTF_AHB_DATA_BITS_R[LED_BLUE] = LED_BLUE;
+        GPIOF_HS->DATA_Bits[LED_BLUE] = LED_BLUE;
         WAIT();
-        GPIO_PORTF_AHB_DATA_BITS_R[LED_BLUE] = 0;
+        GPIOF_HS->DATA_Bits[LED_BLUE] = 0;
         
-        GPIO_PORTF_AHB_DATA_BITS_R[LED_GREEN] = LED_GREEN;
+        GPIOF_HS->DATA_Bits[LED_GREEN] = LED_GREEN;
         WAIT();
-        GPIO_PORTF_AHB_DATA_BITS_R[LED_GREEN] = 0;
+        GPIOF_HS->DATA_Bits[LED_GREEN] = 0;
         
         WAIT();
     }
@@ -74,13 +74,14 @@ int main()
 //=========================initializations=====================================
 void init(void)
 {
-  SYSCTL_RCGCGPIO_R |= (1U << 5);
-  SYSCTL_GPIOHBCTL_R |=(1U << 5);
-  GPIO_PORTF_AHB_DIR_R  |= (LED_RED | LED_GREEN |LED_BLUE);
-  GPIO_PORTF_AHB_DEN_R  |= (LED_RED | LED_GREEN |LED_BLUE);
-  GPIO_PORTF_AHB_DATA_BITS_R[LED_BLUE] = LED_OFF;
-  GPIO_PORTF_AHB_DATA_BITS_R[LED_GREEN] = LED_OFF;
-  GPIO_PORTF_AHB_DATA_BITS_R[LED_RED] = LED_OFF;
+  SYSCTL->RCGC2|= (1U << 5);
+  SYSCTL->GPIOHSCTL|=(1U << 5);
+  GPIOF_HS->DIR|= (LED_RED | LED_GREEN |LED_BLUE);
+  GPIOF_HS->DEN|= (LED_RED | LED_GREEN |LED_BLUE);
+ 
+  GPIOF_HS->DATA_Bits[LED_BLUE] = LED_OFF;
+  GPIOF_HS->DATA_Bits[LED_GREEN] = LED_OFF;
+  GPIOF_HS->DATA_Bits[LED_RED] = LED_OFF;
 }
 void osInit(void)
 {
@@ -141,6 +142,13 @@ void SVC_Handler(void)
 void PendSV_Handler(void) {
   Switch_USER_TO_PRIV();
 }
+
+void GPIOPortF_IRQHandler(void)
+{ 
+    __asm volatile("NOP");
+    __asm volatile("NOP");
+    __asm volatile("NOP");
+}
 //======================Tasks (A,B,C)============
 void TaskA(void)
 {
@@ -153,9 +161,9 @@ void TaskA(void)
   int i = 0;
   while(i++<4)
     {    
-        GPIO_PORTF_AHB_DATA_BITS_R[LED_RED] = LED_RED;
+        GPIOF_HS->DATA_Bits[LED_RED] = LED_RED;
         WAIT();
-        GPIO_PORTF_AHB_DATA_BITS_R[LED_RED] = 0;
+        GPIOF_HS->DATA_Bits[LED_RED] = 0;
         WAIT();
     }
 }
@@ -170,9 +178,9 @@ void TaskB(void)
   int i = 0;
   while(i++<4)
     {    
-        GPIO_PORTF_AHB_DATA_BITS_R[LED_BLUE] = LED_BLUE;
+        GPIOF_HS->DATA_Bits[LED_BLUE] = LED_BLUE;
         WAIT();
-        GPIO_PORTF_AHB_DATA_BITS_R[LED_BLUE] = 0;
+        GPIOF_HS->DATA_Bits[LED_BLUE] = 0;
         WAIT();
     }
 }
@@ -188,9 +196,9 @@ void TaskC(void)
   int i = 0;
   while(i++<4)
     {    
-        GPIO_PORTF_AHB_DATA_BITS_R[LED_GREEN] = LED_GREEN;
+        GPIOF_HS->DATA_Bits[LED_GREEN] = LED_GREEN;
         WAIT();
-        GPIO_PORTF_AHB_DATA_BITS_R[LED_GREEN] = 0;
+        GPIOF_HS->DATA_Bits[LED_GREEN] = 0;
         WAIT();
     }
 }

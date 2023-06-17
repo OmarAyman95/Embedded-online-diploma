@@ -1,37 +1,29 @@
 # ninja log v5
 1	53	7021780070000000	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/BrowseInfo/main.xcl	1f0a38ff010c5d6c
-0	89	7022579213354681	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/BrowseInfo/main.pbi	a49a9ff0d91a8c40
 8	187	7022222910000000	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/BrowseInfo/startup.xcl	7169e2a9ba6a32b9
-194	270	7022222917541086	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/BrowseInfo/startup.pbi	7c93255f5823da4c
-1	197	7023176260000000	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/startup.xcl	ae09d1cd0c5810c0
-140	780	7022579220025464	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbw	5a7e728874e005f7
+0	89	7022579213354681	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/BrowseInfo/main.pbi	a49a9ff0d91a8c40
 92	135	7022579213824681	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbd	f8ecad1b78e60ac3
-22	173	7023176260000000	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/main.xcl	782fcf43ab11e217
-1	78	7085325085907960	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/main.pbi	d2a0527940cfcc58
-201	351	7023176263274845	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/startup.pbi	4e7a432b2038017c
-81	122	7085325086355019	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbd	89ec86d6fedc767c
-126	684	7085325091746091	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbw	d548d82ed4ff18b1
-1	101	7085330573120227	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/main.pbi	d2a0527940cfcc58
-105	146	7085330573566897	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbd	89ec86d6fedc767c
-150	766	7085330579560859	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbw	d548d82ed4ff18b1
-1	109	7086198789650586	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/main.pbi	d2a0527940cfcc58
-112	198	7086198790550566	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbd	89ec86d6fedc767c
-200	877	7086198797129284	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbw	d548d82ed4ff18b1
-1	77	7086199803818009	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/main.pbi	d2a0527940cfcc58
-81	121	7086199804267047	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbd	89ec86d6fedc767c
-124	678	7086199809610061	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbw	d548d82ed4ff18b1
-0	78	7086199861131556	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/main.pbi	d2a0527940cfcc58
-81	118	7086199861540855	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbd	89ec86d6fedc767c
-122	706	7086199867174637	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbw	d548d82ed4ff18b1
-1	82	7086199968932674	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/main.pbi	d2a0527940cfcc58
-85	126	7086199969372452	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbd	89ec86d6fedc767c
-130	746	7086199975371446	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbw	d548d82ed4ff18b1
-0	179	7086200128326994	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/main.pbi	d2a0527940cfcc58
-183	222	7086200128756255	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbd	89ec86d6fedc767c
-226	799	7086200134288441	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbw	d548d82ed4ff18b1
-1	79	7086200236053241	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/main.pbi	d2a0527940cfcc58
-83	123	7086200236503228	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbd	89ec86d6fedc767c
-127	693	7086200241946264	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbw	d548d82ed4ff18b1
-0	82	7086200343763256	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/main.pbi	d2a0527940cfcc58
-85	126	7086200344222578	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbd	89ec86d6fedc767c
-131	696	7086200349707212	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbw	d548d82ed4ff18b1
+140	780	7022579220025464	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbw	5a7e728874e005f7
+194	270	7022222917541086	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/BrowseInfo/startup.pbi	7c93255f5823da4c
+10	81	7087322200000000	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1 (check IPSR in Handler & Thread Mode)/IAR-TIVA c/LESSON/Debug/BrowseInfo/startup.xcl	41f0f4249f1e3c80
+15	91	7087322200000000	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1 (check IPSR in Handler & Thread Mode)/IAR-TIVA c/LESSON/Debug/BrowseInfo/main.xcl	dc27dd0ccabd4b94
+3	62	7087323044431201	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1 (check IPSR in Handler & Thread Mode)/IAR-TIVA c/LESSON/Debug/BrowseInfo/startup.pbi	4ecec33cbcb18da0
+0	66	7087323044451962	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1 (check IPSR in Handler & Thread Mode)/IAR-TIVA c/LESSON/Debug/BrowseInfo/main.pbi	dbaefc6ab64bb69f
+69	95	7087323044769652	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1 (check IPSR in Handler & Thread Mode)/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbd	a827abc1aed8e741
+98	401	7087323047686611	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1 (check IPSR in Handler & Thread Mode)/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbw	55bbf221f4b78d54
+5	58	7087323098842264	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1 (check IPSR in Handler & Thread Mode)/IAR-TIVA c/LESSON/Debug/BrowseInfo/startup.pbi	4ecec33cbcb18da0
+1	168	7087323099937974	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1 (check IPSR in Handler & Thread Mode)/IAR-TIVA c/LESSON/Debug/BrowseInfo/main.pbi	dbaefc6ab64bb69f
+171	204	7087323100311195	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1 (check IPSR in Handler & Thread Mode)/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbd	a827abc1aed8e741
+207	524	7087323103355902	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1 (check IPSR in Handler & Thread Mode)/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbw	55bbf221f4b78d54
+0	52	7087323154460000	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1 (check IPSR in Handler & Thread Mode)/IAR-TIVA c/LESSON/Debug/BrowseInfo/startup.pbi	4ecec33cbcb18da0
+3	56	7087323154500264	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1 (check IPSR in Handler & Thread Mode)/IAR-TIVA c/LESSON/Debug/BrowseInfo/main.pbi	dbaefc6ab64bb69f
+58	84	7087323154783554	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1 (check IPSR in Handler & Thread Mode)/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbd	a827abc1aed8e741
+87	389	7087323157698051	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1 (check IPSR in Handler & Thread Mode)/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbw	55bbf221f4b78d54
+3	59	7087323208856518	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1 (check IPSR in Handler & Thread Mode)/IAR-TIVA c/LESSON/Debug/BrowseInfo/main.pbi	dbaefc6ab64bb69f
+0	169	7087323209956592	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1 (check IPSR in Handler & Thread Mode)/IAR-TIVA c/LESSON/Debug/BrowseInfo/startup.pbi	4ecec33cbcb18da0
+172	200	7087323210270166	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1 (check IPSR in Handler & Thread Mode)/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbd	a827abc1aed8e741
+204	530	7087323213418059	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1 (check IPSR in Handler & Thread Mode)/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbw	55bbf221f4b78d54
+0	52	7087323264439125	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1 (check IPSR in Handler & Thread Mode)/IAR-TIVA c/LESSON/Debug/BrowseInfo/startup.pbi	4ecec33cbcb18da0
+3	55	7087323264469145	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1 (check IPSR in Handler & Thread Mode)/IAR-TIVA c/LESSON/Debug/BrowseInfo/main.pbi	dbaefc6ab64bb69f
+58	83	7087323264763984	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1 (check IPSR in Handler & Thread Mode)/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbd	a827abc1aed8e741
+87	388	7087323267674044	E:/microcontrollers/Embedded diploma/unit 14/practical/session 2 - LAB1 (check IPSR in Handler & Thread Mode)/IAR-TIVA c/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbw	55bbf221f4b78d54
