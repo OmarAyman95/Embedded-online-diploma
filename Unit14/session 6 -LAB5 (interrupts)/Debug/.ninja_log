@@ -1,0 +1,48 @@
+# ninja log v5
+5	65	7022410664037665	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/Obj/startup.o	f6ec515563b8c463
+113	143	7022579187877621	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/Exe/ARMcorteXM4F.out	a2ea072bed9b60a1
+8	88	7086206577305256	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Obj/startup.o	547e17a0233cc394
+1	106	7022579187478249	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/Obj/main.o	342e0f4ca1192553
+1	106	7086535997080008	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Obj/main.o	a0250ed2875cff8b
+111	141	7086535997457173	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Exe/ARMcorteXM4F.out	4dd91b130f7918ab
+1	99	7086536468719623	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Obj/main.o	a0250ed2875cff8b
+105	135	7086536469116152	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Exe/ARMcorteXM4F.out	4dd91b130f7918ab
+1	152	7086537751224818	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Obj/main.o	a0250ed2875cff8b
+157	188	7086537751735973	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Exe/ARMcorteXM4F.out	4dd91b130f7918ab
+1	94	7086538447350463	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Obj/main.o	a0250ed2875cff8b
+101	133	7086538447768350	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Exe/ARMcorteXM4F.out	4dd91b130f7918ab
+2	108	7086539187573098	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Obj/main.o	a0250ed2875cff8b
+113	143	7086539187950422	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Exe/ARMcorteXM4F.out	4dd91b130f7918ab
+1	107	7086539772246438	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Obj/main.o	a0250ed2875cff8b
+113	144	7086539772642884	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Exe/ARMcorteXM4F.out	4dd91b130f7918ab
+1	165	7086541699292521	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Obj/main.o	a0250ed2875cff8b
+171	201	7086541699859453	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Exe/ARMcorteXM4F.out	4dd91b130f7918ab
+1	105	7086542201058482	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Obj/main.o	a0250ed2875cff8b
+111	141	7086542201451910	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Exe/ARMcorteXM4F.out	4dd91b130f7918ab
+2	115	7086542835871231	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Obj/main.o	a0250ed2875cff8b
+120	151	7086542836257259	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Exe/ARMcorteXM4F.out	4dd91b130f7918ab
+1	116	7086543850794529	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Obj/main.o	a0250ed2875cff8b
+121	152	7086543851195816	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Exe/ARMcorteXM4F.out	4dd91b130f7918ab
+0	152	7086546200602428	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Obj/main.o	a0250ed2875cff8b
+157	189	7086546201114861	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP)/Debug/Exe/ARMcorteXM4F.out	4dd91b130f7918ab
+10	187	7087271204535429	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular)/Debug/Obj/startup.o	cde310ae8325774e
+1	143	7087284959302057	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular)/Debug/Obj/main.o	bf3c500ed2309042
+149	279	7087284960926176	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular)/Debug/Exe/ARMcorteXM4F.out	cb68285af7d60c9e
+1	131	7087311929171837	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular)/Debug/Obj/main.o	bf3c500ed2309042
+137	169	7087311929684723	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular)/Debug/Exe/ARMcorteXM4F.out	cb68285af7d60c9e
+1	113	7087314294699930	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular)/Debug/Obj/main.o	bf3c500ed2309042
+118	169	7087314295242295	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular)/Debug/Exe/ARMcorteXM4F.out	cb68285af7d60c9e
+1	95	7087316636992619	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular)/Debug/Obj/main.o	bf3c500ed2309042
+101	132	7087316637378767	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular)/Debug/Exe/ARMcorteXM4F.out	cb68285af7d60c9e
+2	126	7087317404684458	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular)/Debug/Obj/main.o	bf3c500ed2309042
+131	186	7087317405266707	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular)/Debug/Exe/ARMcorteXM4F.out	cb68285af7d60c9e
+6	123	7087319343989985	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular) - Copy/Debug/Obj/startup.o	92c61a28d3f160f1
+1	154	7087319344239835	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular) - Copy/Debug/Obj/main.o	6a4127587867a4ae
+160	198	7087319344934863	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular) - Copy/Debug/Exe/ARMcorteXM4F.out	be4f14dbddae1fd3
+4	68	7087323456811573	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB5 (interrupts)/Debug/Obj/startup.o	a7f9acb805b842b9
+0	96	7087323457095160	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB5 (interrupts)/Debug/Obj/main.o	db0875297854faf9
+101	139	7087323457541051	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB5 (interrupts)/Debug/Exe/ARMcorteXM4F.out	912675759af945b0
+2	211	7087341702048324	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB5 (interrupts)/Debug/Obj/main.o	db0875297854faf9
+216	252	7087341702752566	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB5 (interrupts)/Debug/Exe/ARMcorteXM4F.out	912675759af945b0
+1	136	7087366480410667	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB5 (interrupts)/Debug/Obj/main.o	db0875297854faf9
+142	175	7087366480824596	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB5 (interrupts)/Debug/Exe/ARMcorteXM4F.out	912675759af945b0
