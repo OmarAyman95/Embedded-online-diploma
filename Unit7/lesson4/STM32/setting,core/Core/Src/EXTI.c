@@ -188,17 +188,13 @@ void Software_Interrupt_Trigger(uint8_t pin_no,void(*ptrTofun)(void))
 {
 	if(pin_no>=0 && pin_no<=15)
 	{
-	ptrToIRQx[pin_no] = ptrTofun;
-	Interrupt_Mask_Enable(pin_no);
-	Enable_IRQx(pin_no);
-	EXTI->SWIER =(1U<<pin_no);
+		ptrToIRQx[pin_no] = ptrTofun;
+		Interrupt_Mask_Enable(pin_no);
+		Enable_IRQx(pin_no);
+		EXTI->SWIER =(1U<<pin_no);
 	}
 	else {}
 }
-
-
-
-
 
 void EXTI0_IRQHandler(void)
 {
