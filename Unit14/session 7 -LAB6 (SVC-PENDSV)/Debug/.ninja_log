@@ -1,0 +1,61 @@
+# ninja log v5
+5	65	7022410664037665	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/Obj/startup.o	f6ec515563b8c463
+113	143	7022579187877621	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/Exe/ARMcorteXM4F.out	a2ea072bed9b60a1
+131	186	7087317405266707	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular)/Debug/Exe/ARMcorteXM4F.out	cb68285af7d60c9e
+1	106	7022579187478249	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/Obj/main.o	342e0f4ca1192553
+101	132	7088448225735889	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+10	187	7087271204535429	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular)/Debug/Obj/startup.o	cde310ae8325774e
+2	126	7087317404684458	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular)/Debug/Obj/main.o	bf3c500ed2309042
+13	293	7088234393104692	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/startup.o	2e7b2f65b318af46
+1	96	7088448225352735	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+1	89	7088448578257365	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+95	126	7088448578651962	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	152	7088449274841384	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+157	188	7088449275464925	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	99	7088450701785923	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+103	136	7088450702177366	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	88	7088451320168838	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+93	126	7088451320544876	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	113	7088451816126099	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+118	150	7088451816531595	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	327	7088852780158605	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+331	460	7088852781722093	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	198	7088871444006664	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+0	211	7088875869770542	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+215	259	7088875870497124	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	138	7088904566775153	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+144	176	7088904567302591	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	100	7088904762642875	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+106	138	7088904763057541	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	88	7088904897638849	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+94	126	7088904898047180	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	99	7088905310600279	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+105	136	7088905311004926	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	93	7088905409084585	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+99	131	7088905409482893	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	257	7088908022564016	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+260	292	7088908023228724	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	103	7088908555085778	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+109	143	7088908555506727	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	132	7088910865986913	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+135	191	7088910866589694	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	124	7088911608991262	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+129	182	7088911609583875	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	99	7088911932751325	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+102	135	7088911933134395	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	146	7088912353703582	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+149	206	7088912354302720	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	201	7088919267703813	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+204	254	7088919268448839	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	107	7088923425438749	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+113	145	7088923425831575	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	106	7088923690676995	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+110	142	7088923691053696	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	146	7088923760477820	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+150	212	7088923761105669	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+0	105	7088923812081158	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+109	142	7088923812470728	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	105	7088924115174825	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+111	144	7088924115595397	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
+1	286	7089038299502818	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Obj/main.o	b4d16d64433f7cf4
+289	387	7089038300685919	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/Exe/ARMcorteXM4F.out	cce2d97b8f9fb960
