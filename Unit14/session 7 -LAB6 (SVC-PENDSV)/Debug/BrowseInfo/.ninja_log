@@ -1,0 +1,40 @@
+# ninja log v5
+1	53	7021780070000000	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/BrowseInfo/main.xcl	1f0a38ff010c5d6c
+31	187	7087271120000000	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular)/Debug/BrowseInfo/main.xcl	bc2879d15d6000f7
+8	187	7022222910000000	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/BrowseInfo/startup.xcl	7169e2a9ba6a32b9
+0	89	7022579213354681	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/BrowseInfo/main.pbi	a49a9ff0d91a8c40
+0	90	7087507930000000	E:/microcontrollers/Embedded diploma/unit 14/practical/session 6 -LAB5 (interrupts)/Debug/BrowseInfo/startup.xcl	bd63adcc847f62ad
+92	135	7022579213824681	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbd	f8ecad1b78e60ac3
+140	780	7022579220025464	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/BrowseInfo/ARMcorteXM4F.pbw	5a7e728874e005f7
+194	270	7022222917541086	E:/microcontrollers/Embedded diploma2/4_Automotive and ARM cortex/01 Introduction To ARM Cortex M4 (STM32F4)(20H)/03 Lectures/01 ARM Architecture and STM32F4 Features(10.5H)/ARM practical/IAR/LESSON/Debug/BrowseInfo/startup.pbi	7c93255f5823da4c
+1	167	7087317437687879	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular)/Debug/BrowseInfo/main.pbi	4d9119779b8f127f
+8	214	7087271120000000	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular)/Debug/BrowseInfo/startup.xcl	4a20927489793273
+219	278	7087271126773001	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular)/Debug/BrowseInfo/startup.pbi	b87b0919977cac26
+170	199	7087317438037804	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular)/Debug/BrowseInfo/ARMcorteXM4F.pbd	8e7b249694e86a63
+202	525	7087317441139812	E:/microcontrollers/Embedded diploma/unit 14/practical/session 5 -LAB4 ( switch between MSP and PSP - simple schedular)/Debug/BrowseInfo/ARMcorteXM4F.pbw	b9a3c56e1a739ed1
+94	150	7087507938624146	E:/microcontrollers/Embedded diploma/unit 14/practical/session 6 -LAB5 (interrupts)/Debug/BrowseInfo/startup.pbi	c1ea345d0bebfe88
+156	181	7088923844156113	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/BrowseInfo/ARMcorteXM4F.pbd	8260e5cdb507c935
+4	61	7087507930000000	E:/microcontrollers/Embedded diploma/unit 14/practical/session 6 -LAB5 (interrupts)/Debug/BrowseInfo/main.xcl	f02110b7add2617
+66	127	7087507938414147	E:/microcontrollers/Embedded diploma/unit 14/practical/session 6 -LAB5 (interrupts)/Debug/BrowseInfo/main.pbi	5baed568dfb9f1b3
+153	180	7087507938964148	E:/microcontrollers/Embedded diploma/unit 14/practical/session 6 -LAB5 (interrupts)/Debug/BrowseInfo/ARMcorteXM4F.pbd	2cdf61567eb3eb21
+184	488	7087507941887361	E:/microcontrollers/Embedded diploma/unit 14/practical/session 6 -LAB5 (interrupts)/Debug/BrowseInfo/ARMcorteXM4F.pbw	9d9c616703588b69
+32	272	7088227420000000	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/BrowseInfo/startup.xcl	e688411b744cd9c1
+276	364	7088227421664788	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/BrowseInfo/startup.pbi	fd94f63cd1dfffa0
+8	295	7088227420000000	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/BrowseInfo/main.xcl	7703a95cb1c02dff
+1	152	7088923843859558	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/BrowseInfo/main.pbi	15494847a04463a8
+185	480	7088923846993711	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/BrowseInfo/ARMcorteXM4F.pbw	ec0848e903ed0c58
+0	156	7088923999677585	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/BrowseInfo/main.pbi	15494847a04463a8
+159	186	7088923999990948	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/BrowseInfo/ARMcorteXM4F.pbd	8260e5cdb507c935
+188	495	7088924002933013	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/BrowseInfo/ARMcorteXM4F.pbw	ec0848e903ed0c58
+0	52	7088924154593838	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/BrowseInfo/main.pbi	15494847a04463a8
+55	80	7088924154879294	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/BrowseInfo/ARMcorteXM4F.pbd	8260e5cdb507c935
+83	391	7088924157840304	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/BrowseInfo/ARMcorteXM4F.pbw	ec0848e903ed0c58
+1	96	7089038327026481	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/BrowseInfo/main.pbi	15494847a04463a8
+98	149	7089038327568881	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/BrowseInfo/ARMcorteXM4F.pbd	8260e5cdb507c935
+152	581	7089038331738901	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/BrowseInfo/ARMcorteXM4F.pbw	ec0848e903ed0c58
+0	52	7089043460131599	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/BrowseInfo/main.pbi	15494847a04463a8
+56	83	7089043460434669	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/BrowseInfo/ARMcorteXM4F.pbd	8260e5cdb507c935
+86	409	7089043463555142	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/BrowseInfo/ARMcorteXM4F.pbw	ec0848e903ed0c58
+0	55	7089046078165145	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/BrowseInfo/main.pbi	15494847a04463a8
+58	85	7089046078470352	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/BrowseInfo/ARMcorteXM4F.pbd	8260e5cdb507c935
+88	388	7089046081359957	E:/microcontrollers/Embedded diploma/unit 14/practical/session 7 -LAB6 (SVC-PENDSV)/Debug/BrowseInfo/ARMcorteXM4F.pbw	ec0848e903ed0c58
